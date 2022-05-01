@@ -69,7 +69,7 @@ public class ArticlesFragment extends Fragment {
 
                     @Override
                     public void onErrorResponse(VolleyError error) {
-                        // TODO: Handle error
+                        
 
                     }
                 });
