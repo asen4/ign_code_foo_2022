@@ -1,0 +1,59 @@
+{
+  "count": 1,
+  "startIndex": 40,
+  "data": [
+    {
+      "contentId": "60a81ec6e4b082e810c89cec",
+      "contentType": "article",
+      "thumbnails": [
+        {
+          "url": "https://assets1.ignimgs.com/2021/05/21/masseffectreview-blogroll-ver2-1621629529694_compact.jpg",
+          "size": "compact",
+          "width": 306,
+          "height": 172
+        },
+        {
+          "url": "https://assets1.ignimgs.com/2021/05/21/masseffectreview-blogroll-ver2-1621629529694_medium.jpg",
+          "size": "medium",
+          "width": 466,
+          "height": 262
+        },
+        {
+          "url": "https://assets1.ignimgs.com/2021/05/21/masseffectreview-blogroll-ver2-1621629529694_large.jpg",
+          "size": "large",
+          "width": 626,
+          "height": 352
+        }
+      ],
+      "metadata": {
+        "headline": "Mass Effect Legendary Edition Review Part 1: Mass Effect",
+        "description": "The first chapter's remaster removes many – but not all – of the caveats from my strong recommendation to revisit BioWare's epic sci-fi RPG from the beginning (or to play it for the first time).",
+        "publishDate": "2021-05-21T23:23:39+0000",
+        "slug": "mass-effect-legendary-edition-review-part-1-mass-effect",
+        "networks": [
+          "ign"
+        ],
+        "state": "published",
+        "objectName": "Mass Effect: Legendary Edition"
+      },
+      "tags": [
+        "review",
+        "bioware",
+        "compilation",
+        "electronic-arts",
+        "game",
+        "mass-effect-legendary-edition",
+        "rpg",
+        "xbox-one",
+        "game",
+        "mass-effect-legendary-edition"
+      ],
+      "authors": [
+        {
+          "name": "Dan Stapleton",
+          "thumbnail": "http://oyster.ignimgs.com/social/avatars/users2/29/4872247-1454524492.jpg"
+        }
+      ]
+    }
+  ]
+}
